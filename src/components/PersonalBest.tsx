@@ -25,8 +25,8 @@ const DISTANCES = [
 export function PersonalBest({ activities, onSelectActivity }: PersonalBestProps) {
   const { locale } = useLocale()
 
-  // Only outdoor runs with valid GPS tracks (polyline must be substantial, not just a point)
-  const runs = activities.filter(a => a.type === 'Run' && a.summary_polyline && a.summary_polyline.length > 20)
+  // Include all outdoor runs (with or without GPS track)
+  const runs = activities.filter(a => a.type === 'Run' && a.distance > 0)
 
   const labels: Record<string, string> = locale === 'zh'
     ? { '5K': '5公里', '10K': '10公里', 'Half Marathon': '半程马拉松', 'Marathon': '全程马拉松' }
