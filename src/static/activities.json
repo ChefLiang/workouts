@@ -1522,7 +1522,7 @@
   {
     "run_id": 2000005,
     "name": "20260704户外跑步",
-    "distance": 1128.6,
+    "distance": 10400.0,
     "moving_time": "0:06:23",
     "type": "Run",
     "start_date": "2026-07-04 11:35:01",
@@ -1530,7 +1530,7 @@
     "location_country": null,
     "summary_polyline": "qadvDuea_V@?B@B@B?@@@@B@B?B?D@B@DBB@B@D@`DvEZH~AoDB@DBB@D?BADE@CBG@E@C@CBABCDABCBCBCBE@CBC@CBEBGBCDCHERINEFAFALEN?HBFCBCBEDIFKRWRWDQ?MDGFGBEBCBGBE@CBCBEBE@C@CBC@CjA}C?K@GBGBEBC@E?E?E?C?G?G@E?G?G?G?G?E?EAEAEAEAG?E?GAEAECEEGCICI?G?E?E?E@E?C?C?GWcA@C?E?C?EAEAEAEAGAEEICG@C@CCKIQAKCGEIGIEIEGCGCECIAK?EACC?CAEACAAAACAC?CAECCAECEECGECGCGAGCGCGCGCECACCCCCCACCCAECCACAACCACCCAEACCCACCCCCCCCCCCCACCAECACCCEAACCCCCCEAACCACACCECCCCCCCCCCAEACACACCAACCCACACAA?",
     "average_heartrate": null,
-    "average_speed": 2.9468,
+    "average_speed": 27.154,
     "elevation_gain": null,
     "source": "GPX",
     "streak": 5
