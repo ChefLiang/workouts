@@ -1,18 +1,1 @@
-[
-  {
-    "run_id": 1000001,
-    "name": "Run",
-    "distance": 7700.0,
-    "moving_time": "0:47:00",
-    "type": "Run",
-    "start_date": "2026-02-19 00:00:00",
-    "start_date_local": "2026-02-19 08:00:00",
-    "location_country": null,
-    "summary_polyline": null,
-    "average_heartrate": 164,
-    "average_speed": 2.7027,
-    "elevation_gain": null,
-    "source": "Manual",
-    "streak": 1
-  }
-]
+PLACEHOLDER
