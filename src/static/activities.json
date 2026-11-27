@@ -1502,5 +1502,21 @@
     "elevation_gain": null,
     "source": "GPX",
     "streak": 3
+  },
+  {
+    "run_id": 2000004,
+    "name": "20261101户外跑步",
+    "distance": 71.3,
+    "moving_time": "0:00:30",
+    "type": "Run",
+    "start_date": "2026-10-31 23:51:00",
+    "start_date_local": "2026-10-31 23:51:00",
+    "location_country": null,
+    "summary_polyline": "epm`EcvezU@??C@C?E?C?E?E?EAC?E?EAE?E?C?C?E?C?E?E?CAE?E?E?C?C?E?E?E?C?A",
+    "average_heartrate": null,
+    "average_speed": 2.3755,
+    "elevation_gain": null,
+    "source": "GPX",
+    "streak": 4
   }
 ]
