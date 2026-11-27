@@ -18,7 +18,7 @@ const getBasePath = () => {
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
   siteUrl: 'https://chefliang.github.io/workouts',
-  logo: `${getBasePath()}/assets/avatar.jpg`,
+  logo: `${getBasePath()}/avatar.jpg`,
   description: 'Personal workout log',
   keywords: 'workouts, running, cycling, hiking',
   navLinks: [
